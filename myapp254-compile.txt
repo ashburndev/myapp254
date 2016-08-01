@@ -1,0 +1,212 @@
+|Loading Grails 2.5.4
+|Configuring classpath
+|Downloading: org/apache/apache/4/apache-4.pom
+|Downloading: org/apache/ant/ant-launcher/1.9.4/ant-launcher-1.9.4.pom
+|Downloading: org/apache/ant/ant-parent/1.9.4/ant-parent-1.9.4.pom
+|Downloading: org/apache/ant/ant-junit/1.9.4/ant-junit-1.9.4.pom
+|Downloading: org/apache/ant/ant/1.9.4/ant-1.9.4.pom
+|Downloading: org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom
+|Downloading: jline/jline/2.12/jline-2.12.pom
+|Downloading: org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+|Downloading: net/java/dev/jna/jna/4.0.0/jna-4.0.0.pom
+|Downloading: org/fusesource/jansi/jansi/1.11/jansi-1.11.pom
+|Downloading: org/fusesource/jansi/jansi-project/1.11/jansi-project-1.11.pom
+|Downloading: org/fusesource/fusesource-pom/1.8/fusesource-pom-1.8.pom
+|Downloading: org/codehaus/gant/gant_groovy1.8/1.9.6/gant_groovy1.8-1.9.6.pom
+|Downloading: org/apache/ant/ant/1.8.2/ant-1.8.2.pom
+|Downloading: org/apache/ant/ant-parent/1.8.2/ant-parent-1.8.2.pom
+|Downloading: org/apache/ant/ant-launcher/1.8.2/ant-launcher-1.8.2.pom
+|Downloading: org/apache/ant/ant-trax/1.7.1/ant-trax-1.7.1.pom
+|Downloading: org/apache/ant/ant-parent/1.7.1/ant-parent-1.7.1.pom
+|Downloading: org/apache/ivy/ivy/2.3.0/ivy-2.3.0.pom
+|Downloading: org/apache/apache/7/apache-7.pom
+|Downloading: org/apache/commons/commons-parent/17/commons-parent-17.pom
+|Downloading: org/slf4j/jcl-over-slf4j/1.6.1/jcl-over-slf4j-1.6.1.pom
+|Downloading: org/slf4j/slf4j-parent/1.6.1/slf4j-parent-1.6.1.pom
+|Downloading: org/slf4j/slf4j-api/1.6.1/slf4j-api-1.6.1.pom
+|Downloading: org/grails/plugins/tomcat/7.0.55.3/tomcat-7.0.55.3.pom
+|Downloading: org/apache/tomcat/tomcat-catalina-ant/7.0.55/tomcat-catalina-ant-7.0.55.pom
+|Downloading: org/apache/tomcat/embed/tomcat-embed-jasper/7.0.55/tomcat-embed-jasper-7.0.55.pom
+|Downloading: org/apache/tomcat/embed/tomcat-embed-el/7.0.55/tomcat-embed-el-7.0.55.pom
+|Downloading: org/apache/tomcat/embed/tomcat-embed-logging-log4j/7.0.55/tomcat-embed-logging-log4j-7.0.55.pom
+|Downloading: org/apache/tomcat/embed/tomcat-embed-websocket/7.0.55/tomcat-embed-websocket-7.0.55.pom
+|Downloading: org/apache/tomcat/embed/tomcat-embed-core/7.0.55/tomcat-embed-core-7.0.55.pom
+|Downloading: org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.pom
+|Downloading: org/grails/plugins/tomcat/7.0.55.3/tomcat-7.0.55.3.zip
+|Downloading: org/apache/tomcat/embed/tomcat-embed-el/7.0.55/tomcat-embed-el-7.0.55.jar
+|Downloading: org/apache/tomcat/embed/tomcat-embed-websocket/7.0.55/tomcat-embed-websocket-7.0.55.jar
+|Downloading: org/apache/tomcat/tomcat-catalina-ant/7.0.55/tomcat-catalina-ant-7.0.55.jar
+|Downloading: org/apache/tomcat/embed/tomcat-embed-jasper/7.0.55/tomcat-embed-jasper-7.0.55.jar
+|Downloading: org/apache/tomcat/embed/tomcat-embed-logging-log4j/7.0.55/tomcat-embed-logging-log4j-7.0.55.jar
+|Downloading: org/eclipse/jdt/core/compiler/ecj/3.7.2/ecj-3.7.2.jar
+|Downloading: org/apache/tomcat/embed/tomcat-embed-core/7.0.55/tomcat-embed-core-7.0.55.jar
+|Downloading: net/java/jvnet-parent/1/jvnet-parent-1.pom
+|Downloading: org/springframework/spring-webmvc/4.1.8.RELEASE/spring-webmvc-4.1.8.RELEASE.pom
+|Downloading: com/google/code/gson/gson/2.2.4/gson-2.2.4.pom
+|Downloading: org/springframework/spring-context-support/4.1.8.RELEASE/spring-context-support-4.1.8.RELEASE.pom
+|Downloading: org/grails/grails-datastore-core/3.1.5.RELEASE/grails-datastore-core-3.1.5.RELEASE.pom
+|Downloading: com/googlecode/concurrentlinkedhashmap/concurrentlinkedhashmap-lru/1.3.1/concurrentlinkedhashmap-lru-1.3.1.pom
+|Downloading: javax/transaction/jta/1.1/jta-1.1.pom
+|Downloading: commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.pom
+|Downloading: org/apache/commons/commons-parent/23/commons-parent-23.pom
+|Downloading: org/apache/apache/9/apache-9.pom
+|Downloading: opensymphony/sitemesh/2.4/sitemesh-2.4.pom
+|Downloading: org/aspectj/aspectjweaver/1.8.7/aspectjweaver-1.8.7.pom
+|Downloading: org/springframework/spring-aspects/4.1.8.RELEASE/spring-aspects-4.1.8.RELEASE.pom
+|Downloading: commons-fileupload/commons-fileupload/1.3.1/commons-fileupload-1.3.1.pom
+|Downloading: org/apache/commons/commons-parent/32/commons-parent-32.pom
+|Downloading: org/apache/apache/13/apache-13.pom
+|Downloading: commons-io/commons-io/2.2/commons-io-2.2.pom
+|Downloading: org/apache/commons/commons-parent/24/commons-parent-24.pom
+|Downloading: org/grails/grails-datastore-gorm/3.1.5.RELEASE/grails-datastore-gorm-3.1.5.RELEASE.pom
+|Downloading: org/grails/grails-datastore-simple/3.1.5.RELEASE/grails-datastore-simple-3.1.5.RELEASE.pom
+|Downloading: org/apache/commons/commons-parent/22/commons-parent-22.pom
+|Downloading: asm/asm-parent/3.3.1/asm-parent-3.3.1.pom
+|Downloading: org/objenesis/objenesis/1.4/objenesis-1.4.pom
+|Downloading: org/objenesis/objenesis-parent/1.4/objenesis-parent-1.4.pom
+|Downloading: org/hamcrest/hamcrest-parent/1.3/hamcrest-parent-1.3.pom
+|Downloading: cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.pom
+|Downloading: org/grails/grails-datastore-test-support/1.0.2-grails-2.4/grails-datastore-test-support-1.0.2-grails-2.4.pom
+|Downloading: org/grails/plugins/scaffolding/2.1.2/scaffolding-2.1.2.pom
+|Downloading: org/grails/plugins/cache/1.1.8/cache-1.1.8.pom
+|Downloading: org/javassist/javassist/3.17.1-GA/javassist-3.17.1-GA.pom
+|Downloading: org/grails/plugins/webxml/1.4.1/webxml-1.4.1.pom
+|Downloading: org/grails/plugins/asset-pipeline/2.5.7/asset-pipeline-2.5.7.pom
+|Downloading: org/mozilla/rhino/1.7R4/rhino-1.7R4.pom
+|Downloading: com/bertramlabs/plugins/asset-pipeline-core/2.5.5/asset-pipeline-core-2.5.5.pom
+|Downloading: com/google/javascript/closure-compiler/v20141023/closure-compiler-v20141023.pom
+|Downloading: com/google/javascript/closure-compiler-parent/v20141023/closure-compiler-parent-v20141023.pom
+|Downloading: org/sonatype/oss/oss-parent/9/oss-parent-9.pom
+|Downloading: com/google/javascript/closure-compiler-externs/v20141023/closure-compiler-externs-v20141023.pom
+|Downloading: args4j/args4j/2.0.26/args4j-2.0.26.pom
+|Downloading: args4j/args4j-site/2.0.26/args4j-site-2.0.26.pom
+|Downloading: org/kohsuke/pom/6/pom-6.pom
+|Downloading: com/google/guava/guava/18.0/guava-18.0.pom
+|Downloading: com/google/guava/guava-parent/18.0/guava-parent-18.0.pom
+|Downloading: com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.pom
+|Downloading: com/google/google/1/google-1.pom
+|Downloading: commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.pom
+|Downloading: org/apache/commons/commons-parent/5/commons-parent-5.pom
+|Downloading: org/grails/plugins/hibernate4/4.3.10/hibernate4-4.3.10.pom
+|Downloading: org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.pom
+|Downloading: org/hibernate/hibernate-validator-parent/5.1.3.Final/hibernate-validator-parent-5.1.3.Final.pom
+|Downloading: org/jboss/arquillian/arquillian-bom/1.0.2.Final/arquillian-bom-1.0.2.Final.pom
+|Downloading: org/jboss/shrinkwrap/shrinkwrap-bom/1.0.1/shrinkwrap-bom-1.0.1.pom
+|Downloading: org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/1.0.0-beta-7/shrinkwrap-resolver-bom-1.0.0-beta-7.pom
+|Downloading: org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-3/shrinkwrap-descriptors-bom-2.0.0-alpha-3.pom
+|Downloading: javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom
+|Downloading: org/jboss/logging/jboss-logging/3.1.3.GA/jboss-logging-3.1.3.GA.pom
+|Downloading: org/jboss/jboss-parent/9/jboss-parent-9.pom
+|Downloading: com/fasterxml/classmate/1.0.0/classmate-1.0.0.pom
+|Downloading: org/hibernate/hibernate-ehcache/4.3.10.Final/hibernate-ehcache-4.3.10.Final.pom
+|Downloading: org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.pom
+|Downloading: org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.pom
+|Downloading: org/jboss/jboss-parent/10/jboss-parent-10.pom
+|Downloading: dom4j/dom4j/1.6.1/dom4j-1.6.1.pom
+|Downloading: xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+|Downloading: org/hibernate/common/hibernate-commons-annotations/4.0.5.Final/hibernate-commons-annotations-4.0.5.Final.pom
+|Downloading: org/javassist/javassist/3.18.1-GA/javassist-3.18.1-GA.pom
+|Downloading: antlr/antlr/2.7.7/antlr-2.7.7.pom
+|Downloading: org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.pom
+|Downloading: org/jboss/jboss-parent/5/jboss-parent-5.pom
+|Downloading: net/sf/ehcache/ehcache/2.9.0/ehcache-2.9.0.pom
+|Downloading: net/sf/ehcache/ehcache-root/2.9.0/ehcache-root-2.9.0.pom
+|Downloading: net/sf/ehcache/ehcache-parent/2.16/ehcache-parent-2.16.pom
+|Downloading: org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.pom
+|Downloading: org/slf4j/slf4j-parent/1.7.7/slf4j-parent-1.7.7.pom
+|Downloading: org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.pom
+|Downloading: org/jboss/jboss-parent/7/jboss-parent-7.pom
+|Downloading: org/grails/grails-datastore-gorm-hibernate4/3.1.5.RELEASE/grails-datastore-gorm-hibernate4-3.1.5.RELEASE.pom
+|Downloading: org/grails/grails-datastore-gorm-hibernate-core/3.1.5.RELEASE/grails-datastore-gorm-hibernate-core-3.1.5.RELEASE.pom
+|Downloading: org/grails/grails-datastore-gorm-plugin-support/3.1.5.RELEASE/grails-datastore-gorm-plugin-support-3.1.5.RELEASE.pom
+|Downloading: org/springframework/spring-orm/4.1.8.RELEASE/spring-orm-4.1.8.RELEASE.pom
+|Downloading: org/hibernate/hibernate-validator/5.0.3.Final/hibernate-validator-5.0.3.Final.pom
+|Downloading: org/hibernate/hibernate-validator-parent/5.0.3.Final/hibernate-validator-parent-5.0.3.Final.pom
+|Downloading: org/jboss/logging/jboss-logging/3.1.1.GA/jboss-logging-3.1.1.GA.pom
+|Downloading: org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.pom
+|Downloading: org/jboss/logging/jboss-logging-tools-parent/1.2.0.Beta1/jboss-logging-tools-parent-1.2.0.Beta1.pom
+|Downloading: org/hibernate/common/hibernate-commons-annotations/4.0.4.Final/hibernate-commons-annotations-4.0.4.Final.pom
+|Downloading: org/grails/plugins/database-migration/1.4.0/database-migration-1.4.0.pom
+|Downloading: org/liquibase/liquibase-core/2.0.5/liquibase-core-2.0.5.pom
+|Downloading: org/liquibase/liquibase-parent/2.0.5/liquibase-parent-2.0.5.pom
+|Downloading: org/grails/plugins/jquery/1.11.1/jquery-1.11.1.pom
+|Downloading: org/grails/plugins/webxml/1.4.1/webxml-1.4.1.zip
+|Downloading: org/grails/plugins/asset-pipeline/2.5.7/asset-pipeline-2.5.7.zip
+|Downloading: org/grails/plugins/scaffolding/2.1.2/scaffolding-2.1.2.zip
+|Downloading: org/grails/plugins/cache/1.1.8/cache-1.1.8.zip
+|Downloading: org/grails/plugins/hibernate4/4.3.10/hibernate4-4.3.10.zip
+|Downloading: org/grails/plugins/database-migration/1.4.0/database-migration-1.4.0.zip
+|Downloading: org/grails/plugins/jquery/1.11.1/jquery-1.11.1.zip
+|Downloading: org/mozilla/rhino/1.7R4/rhino-1.7R4.jar
+|Downloading: cglib/cglib-nodep/2.2.2/cglib-nodep-2.2.2.jar
+|Downloading: org/grails/grails-datastore-test-support/1.0.2-grails-2.4/grails-datastore-test-support-1.0.2-grails-2.4.jar
+|Downloading: org/javassist/javassist/3.17.1-GA/javassist-3.17.1-GA.jar
+|Downloading: com/bertramlabs/plugins/asset-pipeline-core/2.5.5/asset-pipeline-core-2.5.5.jar
+|Downloading: com/google/javascript/closure-compiler/v20141023/closure-compiler-v20141023.jar
+|Downloading: com/google/javascript/closure-compiler-externs/v20141023/closure-compiler-externs-v20141023.jar
+|Downloading: args4j/args4j/2.0.26/args4j-2.0.26.jar
+|Downloading: com/google/guava/guava/18.0/guava-18.0.jar
+|Downloading: commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar
+|Downloading: com/google/protobuf/protobuf-java/2.5.0/protobuf-java-2.5.0.jar
+|Downloading: org/hibernate/hibernate-validator/5.1.3.Final/hibernate-validator-5.1.3.Final.jar
+|Downloading: javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar
+|Downloading: com/fasterxml/classmate/1.0.0/classmate-1.0.0.jar
+|Downloading: org/hibernate/hibernate-ehcache/4.3.10.Final/hibernate-ehcache-4.3.10.Final.jar
+|Downloading: org/jboss/spec/javax/transaction/jboss-transaction-api_1.2_spec/1.0.0.Final/jboss-transaction-api_1.2_spec-1.0.0.Final.jar
+|Downloading: org/hibernate/hibernate-core/4.3.10.Final/hibernate-core-4.3.10.Final.jar
+|Downloading: antlr/antlr/2.7.7/antlr-2.7.7.jar
+|Downloading: org/jboss/jandex/1.1.0.Final/jandex-1.1.0.Final.jar
+|Downloading: net/sf/ehcache/ehcache/2.9.0/ehcache-2.9.0.jar
+|Downloading: org/jboss/logging/jboss-logging/3.1.0.GA/jboss-logging-3.1.0.GA.jar
+|Downloading: org/grails/grails-datastore-gorm-hibernate4/3.1.5.RELEASE/grails-datastore-gorm-hibernate4-3.1.5.RELEASE.jar
+|Downloading: org/grails/grails-datastore-gorm-hibernate-core/3.1.5.RELEASE/grails-datastore-gorm-hibernate-core-3.1.5.RELEASE.jar
+|Downloading: org/grails/grails-datastore-gorm-plugin-support/3.1.5.RELEASE/grails-datastore-gorm-plugin-support-3.1.5.RELEASE.jar
+|Downloading: org/springframework/spring-orm/4.1.8.RELEASE/spring-orm-4.1.8.RELEASE.jar
+|Downloading: org/hibernate/common/hibernate-commons-annotations/4.0.4.Final/hibernate-commons-annotations-4.0.4.Final.jar
+|Downloading: org/jboss/logging/jboss-logging-annotations/1.2.0.Beta1/jboss-logging-annotations-1.2.0.Beta1.jar
+|Downloading: dom4j/dom4j/1.6.1/dom4j-1.6.1.jar
+|Downloading: org/liquibase/liquibase-core/2.0.5/liquibase-core-2.0.5.jar
+.
+|Environment set to development
+......
+|Installing zip scaffolding-2.1.2.zip...
+...
+|Installed plugin scaffolding-2.1.2
+.............
+|Installing zip cache-1.1.8.zip...
+...
+|Installed plugin cache-1.1.8
+.............
+|Installing zip webxml-1.4.1.zip...
+...
+|Installed plugin webxml-1.4.1
+.............
+|Installing zip asset-pipeline-2.5.7.zip...
+...
+|Installed plugin asset-pipeline-2.5.7
+..................
+|Installing zip hibernate4-4.3.10.zip...
+...
+|Installed plugin hibernate4-4.3.10
+..............
+|Installing zip database-migration-1.4.0.zip...
+...
+|Installed plugin database-migration-1.4.0
+...............
+|Installing zip jquery-1.11.1.zip...
+...
+|Installed plugin jquery-1.11.1
+..............
+|Installing zip tomcat-7.0.55.3.zip...
+...
+|Installed plugin tomcat-7.0.55.3
+...................
+|Compiling 10 source files
+
+..
+|Compiling 119 source files
+Note: /tmp/myapp254/target/work/plugins/scaffolding-2.1.2/src/java/org/codehaus/groovy/grails/scaffolding/AbstractGrailsTemplateGenerator.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
+.......
+|Compiling 7 source files
+.
