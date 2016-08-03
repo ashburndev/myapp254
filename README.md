@@ -160,3 +160,33 @@ a simple Grails web application created using Grails 2.5.4
     33 directories, 59 files
     ashburndave@dphnuc:~/g2projects$ 
 
+## Grails 2.5.4 web application dependencies
+
+I ran the command below to examine the dependencies of a Grails 2.5.4 web application.  I copied the three .txt files
+created below to the top level directory of the actual project (~/g2projects/myapp254) and commited them to github,
+where then can be found at the following URL.
+
+https://github.com/ashburndev/myapp254
+
+    cd /tmp
+    rm -R ~/.grails
+    rm -R ~/.m2
+    grails --version
+    grails --non-interactive --plain-output create-app myapp254 > /tmp/myapp254-create-app.txt
+    cd myapp254
+    grails --non-interactive --plain-output compile > /tmp/myapp254-compile.txt
+    grails --non-interactive --plain-output dependency-report > /tmp/myapp254-dependency-report.txt
+    
+    ashburndave@dphnuc:~$ cd ~
+    ashburndave@dphnuc:~$ find .grails -name "*.zip" -print
+    ashburndave@dphnuc:~$ find .m2 -name "*.zip" -print
+    .m2/repository/org/grails/plugins/database-migration/1.4.0/database-migration-1.4.0.zip
+    .m2/repository/org/grails/plugins/cache/1.1.8/cache-1.1.8.zip
+    .m2/repository/org/grails/plugins/tomcat/7.0.55.3/tomcat-7.0.55.3.zip
+    .m2/repository/org/grails/plugins/hibernate4/4.3.10/hibernate4-4.3.10.zip
+    .m2/repository/org/grails/plugins/webxml/1.4.1/webxml-1.4.1.zip
+    .m2/repository/org/grails/plugins/asset-pipeline/2.5.7/asset-pipeline-2.5.7.zip
+    .m2/repository/org/grails/plugins/scaffolding/2.1.2/scaffolding-2.1.2.zip
+    .m2/repository/org/grails/plugins/jquery/1.11.1/jquery-1.11.1.zip
+    ashburndave@dphnuc:~$ 
+
